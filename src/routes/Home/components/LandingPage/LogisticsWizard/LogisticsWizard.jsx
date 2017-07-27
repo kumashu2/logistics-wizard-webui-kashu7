@@ -5,7 +5,7 @@ import classes from './LogisticsWizard.scss';
 export const LogisticsWizard = () => (
   <div className={classes.logisticsWizard}>
     <section>
-      <h1>Logistics Wizard DEMO FOR HUL</h1>
+      <h1>Logistics Wizard --- DEMO FOR HUL-Internal </h1>
       <p>
         A cognitive logistics solution that analyzes real-time data, provides
         intelligent recommendations, and presents your employees with a beautiful
